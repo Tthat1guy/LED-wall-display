@@ -25,10 +25,6 @@
 #define Strip1Pin 12
 #define Strip2Pin 11
 
-//length of each strip
-#define Strip1Length 132 //length in pixels of strip 1
-#define Strip2Length 168 //length in pixels of strip 2
-
 #include <Adafruit_NeoPixel.h>
 Adafruit_NeoPixel strip1(Strip1Length, Strip1Pin, NEO_GRB + NEO_KHZ800);
 Adafruit_NeoPixel strip2(Strip2Length, Strip2Pin, NEO_GRB + NEO_KHZ800);
