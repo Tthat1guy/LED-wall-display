@@ -1,6 +1,6 @@
 //step 13
-#define Strip1Length 132 //length in pixels of strip 1
-#define Strip2Length 168 //length in pixels of strip 2
+#define Strip1Length xx //length in pixels of strip 1
+#define Strip2Length xx //length in pixels of strip 2
 
 
 //step 14
